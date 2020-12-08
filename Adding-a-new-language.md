@@ -1,7 +1,7 @@
 ## List of possible languages
 `English`,`Arabic`, `Bengali`, `Creole`, `Chinese` ,`French`, `Hindi`, `Italian`, `Korean`, `Polish`, `Russian`, `Ukrainian`, `Spanish`, `Swahili`, `Tagalog`, `Vietnamese`, `Wolof`, `Yiddish`
 
-# Adding a new language
+## Adding a language
 1. Open the `Documents` panel in Prismic
     1. Click the flag dropdown in the header and select the language you want to add
 2. Find the `Home` entry using the search bar and click into it
