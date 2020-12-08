@@ -1,5 +1,5 @@
 ## Example
-![](https://drive.google.com/uc?id=1B0k6yzUP71xyDZqj25e-jeb8APWu3mwE)
+![](https://drive.google.com/uc?id=1FCQPbvjN3tbo1JtMlST2T1e1O6UiWxJS)
 
 ## Fields
 
@@ -8,19 +8,22 @@
 - Prismic will format whatever you type in here automatically. 
 
 ### Title
-- This is the title that will show up at the top of the page. This should be the title of the press release.
+- This is the title that will show up at the top of the page. This should be the title of the newsletter.
 
-### Contact (optional)
-- Select an [[existing Bio|Page-Bio]]
+### Short description
+- This is the description that will show up in the newsletter list.
 
-### Release Date
-- If left blank it will use today's date (date of publication)
-- If a date in the future is entered it will be indicated as not to be release until then
-- If a date in the past is entered it will seem as if it was published at that date in the past
+### Mailchimp ID
+- This is the mailchimp ID for this newsletter
 
-### Slices
-The following slices are available for use:
-- [[Text|Slice:-Text]] (Recommended)
+### Email delivery
+- Toggle on to indicate that this newsletter can be delivered by Email
+
+### Text delivery
+- Toggle on to indicate that this newsletter can be delivered by phone Text
+
+### Mail delivery
+- Toggle on to indicate that this newsletter can be delivered by regular Mail
 
 ### Promo tab
 - Fill out the`Promo` tab so that the card for this page that shows up in search and featured is interesting and compelling.
