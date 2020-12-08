@@ -1,5 +1,7 @@
 Use this slice to enter long-form text.
 
+![](https://drive.google.com/uc?id=1K3i4f5YxAELcMwg_zCYimMZdarbwWw05)
+
 ## Features
 - Paragraphs of text
     - Simply enter your text in the editor
