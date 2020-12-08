@@ -1,7 +1,4 @@
 ## Use this slice to create a header block.
-```
-If this slice is placed as the first slice of a page it will hide the default (underlined) page title
-```
 
 ## Examples
 ![](https://drive.google.com/uc?id=1jegfhzEhMQ6ycJ4FvF9z6IdT8aFyRNcK)
@@ -11,6 +8,8 @@ If this slice is placed as the first slice of a page it will hide the default (u
 ![](https://drive.google.com/uc?id=131PhyJ69SrQPyUKFMxCUq_A_6-pFmSCk)
 
 ## Features
+- Replacement for the default page title
+    - If this slice is placed as the first slice of a page it will replace the default (underlined) page title
 - Tone (color)
     - Choose between `Normal` (light background), `Important` (dark background), or `Urgent` (red background)
 - Headline
