@@ -29,7 +29,7 @@
 ### Full bio
 - Simply enter their text bio. This field acts like a [[Text slice|Slice: Text]
 
-## Portrait
+### Portrait
 - Select a photo from the gallery
 
 ### Slices
