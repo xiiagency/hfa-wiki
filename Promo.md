@@ -6,9 +6,6 @@ The content for these cards will be generated from the data entered on the `Prom
 
 ![](https://drive.google.com/uc?id=1eDPR58zcuefJL4_luwpfmgCorKWLWEfA)
 
-
-## Example
-
 ## Features
 - Pin to top if possible
     - If this toggled on, it will attempt to place this content near the top of any list
