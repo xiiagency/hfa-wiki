@@ -7,6 +7,6 @@
 - Headline
     - Simply enter a text headline.
 - Person(s)
-    - Simply enter a pre-existing Bio.
+    - Simply select a [pre-existing Bio page](https://github.com/xiiagency/xii-hfa-main/wiki/Page:-Bio)
     - To add more people to the list click `Add new element in Group`
 - Thumbnails will only be shown for Bios that include a photo
