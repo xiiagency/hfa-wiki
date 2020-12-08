@@ -15,7 +15,7 @@
 - Indicate whether to pin this blog post to the top of the directory.
 
 ### Contact (optional)
-- Select an [[existing Bio|Page-Bio]]
+- Select an [[existing Bio|Page:-Bio]]
 
 ### Release Date
 - If left blank it will use today's date (date of publication)
