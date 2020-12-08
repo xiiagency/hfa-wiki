@@ -1,9 +1,9 @@
 ## Use this slice to enter embeddable external content
 
 ## Examples
-![](https://drive.google.com/uc?id= 1cfXsG9FpWMQ6IX9O059wggaAAF8nRm4S)
+![](https://drive.google.com/uc?id=1cfXsG9FpWMQ6IX9O059wggaAAF8nRm4S)
 
-![](https://drive.google.com/uc?id= 1oojrS3p43lhwLmeko7u7jBQTz75hAXwU)
+![](https://drive.google.com/uc?id=1oojrS3p43lhwLmeko7u7jBQTz75hAXwU)
 
 ## Features
 - URL
