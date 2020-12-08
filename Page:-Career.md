@@ -5,7 +5,7 @@
 - Prismic will format whatever you type in here automatically. 
 
 ## Example
-![](https://drive.google.com/ux?id=1COZajtey63_LSJ6j7d_7VZn4b8uli5gw)
+![](https://drive.google.com/uc?id=1COZajtey63_LSJ6j7d_7VZn4b8uli5gw)
 
 ### Title
 - This is the title that will show up at the top of the page. This should be the job title.
