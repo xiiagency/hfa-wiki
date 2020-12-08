@@ -1,3 +1,8 @@
+* Every language version of the site acts independently from the other. 
+* You can translate every page from the English version, only some pages, or have completely different pages.
+* The minimum requirement for adding a new language is to translate the `Home`, `Navigation` and `Search` pages.
+* Once the above is done, the language option will become available to users on the live site. 
+
 ## List of possible languages
 `English`,`Arabic`, `Bengali`, `Creole`, `Chinese` ,`French`, `Hindi`, `Italian`, `Korean`, `Polish`, `Russian`, `Ukrainian`, `Spanish`, `Swahili`, `Tagalog`, `Vietnamese`, `Wolof`, `Yiddish`
 
