@@ -30,3 +30,6 @@ ZWD,,Zimbabwe Dollar
 ```
 - Includes headers?
     - If your data includes column headers (the first row of your data) then turn it on
+
+- Download as CSV
+    - A button to download the raw data will automatically be created at the bottom
