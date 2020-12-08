@@ -9,3 +9,4 @@
 - Featured items
     - Choose an existing page
     - If you wish to add more items click `Add a new element in Group` and repeat
+- The featured items will display information that is shown in the `Promo` tab of the linked page. Learn more here.
