@@ -1,4 +1,4 @@
-# Use this slice to enter long-form text.
+Use this slice to enter long-form text.
 
 ## Features
 - Paragraphs of text
