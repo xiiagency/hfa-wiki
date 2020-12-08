@@ -1,5 +1,5 @@
 ## Example
-![](https://drive.google.com/uc?id=1B0k6yzUP71xyDZqj25e-jeb8APWu3mwE)
+![](https://drive.google.com/uc?id=1g4MlwIydzyv0xiT-B2JLSzQMi8za6HZB)
 
 ## Fields
 
@@ -8,19 +8,29 @@
 - Prismic will format whatever you type in here automatically. 
 
 ### Title
-- This is the title that will show up at the top of the page. This should be the title of the press release.
+- This is the title that will show up at the top of the page. This should be the title of the petition.
 
-### Contact (optional)
-- Select an [[existing Bio|Page-Bio]]
+### Body
+- Enter the body of the petition. This field acts like a [[Text slice|Slice:-Text]]
 
-### Release Date
-- If left blank it will use today's date (date of publication)
-- If a date in the future is entered it will be indicated as not to be release until then
-- If a date in the past is entered it will seem as if it was published at that date in the past
+### Collect Name
+- Toggle on to indicate that this petition collects Name
 
-### Slices
-The following slices are available for use:
-- [[Text|Slice:-Text]] (Recommended)
+### Collect Email addresses
+- Toggle on to indicate that this petition collects Email addresses
+
+### Collect Mailing address
+- Toggle on to indicate that this petition collects Mailing addresses
+
+### Collect State
+- Toggle on to indicate that this petition collects State
+
+### Other fields
+- Enter a label for any other (text) data you wish to collect
+- If you want to add more fields click `Add a new element in Other fields`
+
+### Submission URL
+- Not supported (at the moment)
 
 ### Promo tab
 - Fill out the`Promo` tab so that the card for this page that shows up in search and featured is interesting and compelling.
