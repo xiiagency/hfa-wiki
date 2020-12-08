@@ -1,11 +1,14 @@
-## Use this slice to create a header block
+## Use this slice to create a header block.
+```
+If this slice is placed as the first slice of a page it will hide the default (underlined) page title
+```
 
 ## Examples
-![](https://drive.google.com/uc?id= 1jegfhzEhMQ6ycJ4FvF9z6IdT8aFyRNcK)
+![](https://drive.google.com/uc?id=1jegfhzEhMQ6ycJ4FvF9z6IdT8aFyRNcK)
 
-![](https://drive.google.com/uc?id= 1aRTo4Hj1n_9PQ0EtKfBd10FFLKxzIFWA)
+![](https://drive.google.com/uc?id=1aRTo4Hj1n_9PQ0EtKfBd10FFLKxzIFWA)
 
-![](https://drive.google.com/uc?id= 131PhyJ69SrQPyUKFMxCUq_A_6-pFmSCk)
+![](https://drive.google.com/uc?id=131PhyJ69SrQPyUKFMxCUq_A_6-pFmSCk)
 
 ## Features
 - Tone (color)
