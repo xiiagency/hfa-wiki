@@ -1,1 +1,8 @@
-Welcome to the xii-hfa-main wiki!
+# Adding pages
+
+
+# Adding languages
+
+
+# Modifying navigation
+* Modifying navigation
