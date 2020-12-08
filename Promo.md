@@ -1,6 +1,11 @@
-Every content page that you create has the ability to be featured elsewhere on the site in card. The content for this card will be generated from the data entered on the `Promo` tab of each page. 
+Every content page that you create has the ability to be featured elsewhere on the site in card (like below)
 
-!(
+![](https://drive.google.com/uc?id=1RI3P6eXPWCYfVA5PfgT7m-8GO8mDJtpt)
+
+The content for these cards will be generated from the data entered on the `Promo` tab of each page. 
+
+![](https://drive.google.com/uc?id=1eDPR58zcuefJL4_luwpfmgCorKWLWEfA)
+
 
 ## Example
 
