@@ -1,3 +1,8 @@
+## To create a new Research page
+- Go to the Prismic `Documents` screen and click on the Green Pencil button at the top right.
+- Select `Research`
+- Fill out the fields based on the instructions below:
+
 ## Example
 ![](https://drive.google.com/uc?id=1JeBMX7rd0UKpGoNag0uTaE3zzj-n4xa1)
 
