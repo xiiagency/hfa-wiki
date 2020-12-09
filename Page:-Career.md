@@ -1,3 +1,8 @@
+## To create a new Career page
+- Go to the Prismic `Documents` screen and click on the Green Pencil button at the top right.
+- Select `Career`
+- Fill out the fields based on the instructions below:
+
 ## Example
 ![](https://drive.google.com/uc?id=1COZajtey63_LSJ6j7d_7VZn4b8uli5gw)
 
