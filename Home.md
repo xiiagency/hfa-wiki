@@ -25,4 +25,13 @@ The navigation sidebar and footer work off a main source, that can be manually e
 ## Slices
 Pages are composed of slice templates (pre-defined elements that serve a specific purpose). Here is a complete list of all the different slices available:
 
-- [[]]
+- [[Text|Slice:-Text]] (Recommended)
+- [[Action|Slice:-Action]] (Recommended)
+- [[Petition|Slice:-Petition]]
+- [[People|Slice:-People]]
+- [[Visual|Slice:-Visual]]
+- [[List|Slice:-List]]
+- [[Quote|Slice:-Quote]]
+- [[CSV Table|Slice:-CSV-Table]]
+- [[Action|Slice:-Action]]
+- [[Job application|Slice:-Job-application]]
