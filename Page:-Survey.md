@@ -1,3 +1,8 @@
+## To create a new Survey page
+- Go to the Prismic `Documents` screen and click on the Green Pencil button at the top right.
+- Select `Survey`
+- Fill out the fields based on the instructions below:
+
 ## Example
 ![](https://drive.google.com/uc?id=1M3kqDp9fME5RtdWCJdixOn32TfTT35W2)
 
