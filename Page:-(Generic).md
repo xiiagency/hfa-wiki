@@ -1,5 +1,7 @@
 ## To create a new Generic page
-- 
+- Go to the prismic `Documents` screen and click on the Green Pencil button at the top right.
+- Select `Page`
+- Fill out the fields based on the instructions below:
 
 ## Fields
 
