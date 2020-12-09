@@ -20,4 +20,4 @@
 - Fill out the `Global` tab that sets the labels for the buttons on the site header
 
 ### Sidebar & Footer
-Both the sidebar and footer use the same data from this page
+- Both the sidebar and footer use the same data from this page
