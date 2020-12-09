@@ -12,6 +12,7 @@
 | a **video** to be added to the videos directory | [Video page](/xiiagency/xii-hfa-main/wiki/Page:-Video) |
 | a **job listing** to be added to the careers directory | [Career page](/xiiagency/xii-hfa-main/wiki/Page:-Career) |
 | a **research** post to be added to the research directory | [Research page](/xiiagency/xii-hfa-main/wiki/Page:-Research) |
+| a **generic** page to be added anywhere | [Generic page](/xiiagency/xii-hfa-main/wiki/Page:-(Generic)) |
 
 
 ## Adding languages
