@@ -1,3 +1,8 @@
+## To create a new Video page
+- Go to the Prismic `Documents` screen and click on the Green Pencil button at the top right.
+- Select `Video`
+- Fill out the fields based on the instructions below:
+
 ## Example
 ![](https://drive.google.com/uc?id=1duRPTpvlyXPxRJ3-VJVyiekbe2AU634s)
 
