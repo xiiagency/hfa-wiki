@@ -5,4 +5,4 @@ Every language version of the site acts independently from the other. You can tr
 
 
 # Modifying navigation sidebar & footer
-The navigation sidebar and footer work off a main source, that can be manually edited to be as complex or simple as needed. [Learn how|Page:-Navigation]
+The navigation sidebar and footer work off a main source, that can be manually edited to be as complex or simple as needed. [[Learn how|Page:-Navigation]]
