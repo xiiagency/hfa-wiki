@@ -1,3 +1,8 @@
+## To create a new Newsletter page
+- Go to the Prismic `Documents` screen and click on the Green Pencil button at the top right.
+- Select `Newsletter`
+- Fill out the fields based on the instructions below:
+
 ## Example
 ![](https://drive.google.com/uc?id=1FCQPbvjN3tbo1JtMlST2T1e1O6UiWxJS)
 
