@@ -14,8 +14,8 @@
         - [[Blog posts|Directory:-Blog-posts]]
         - [[Research|Directory:-Research]]
         - [[Press releases|Directory:-Press-releases]]
-    - [[Search|Search]]
-    - [[Newsletters|Newsletters]]
+    - [[Search|Page:-Search]]
+    - [[Newsletters|Page:-Newsletters]]
 
 ## List of possible languages
 `English`,`Arabic`, `Bengali`, `Creole`, `Chinese` ,`French`, `Hindi`, `Italian`, `Korean`, `Polish`, `Russian`, `Ukrainian`, `Spanish`, `Swahili`, `Tagalog`, `Vietnamese`, `Wolof`, `Yiddish`
