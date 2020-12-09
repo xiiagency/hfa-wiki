@@ -1,5 +1,5 @@
 # Adding pages
-[Bio page](page:-bio)
+[Bio page](Search)
 | I want to add... | Use |
 | --- | --- |
 | a new **person** to be shown in person lists, or linked as author of content  | [Bio page](Page:-Bio) |
