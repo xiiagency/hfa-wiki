@@ -1,3 +1,8 @@
+## To create a new Bio page
+- Go to the Prismic `Documents` screen and click on the Green Pencil button at the top right.
+- Select `Blog Post`
+- Fill out the fields based on the instructions below:
+
 ## Example
 ![](https://drive.google.com/uc?id=1psMv8Lj3I7UJ2hIHizFogCmFxEOpU_os)
 
