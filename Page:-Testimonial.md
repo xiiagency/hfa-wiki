@@ -1,3 +1,8 @@
+## To create a new Testimonial page
+- Go to the Prismic `Documents` screen and click on the Green Pencil button at the top right.
+- Select `Testimonial`
+- Fill out the fields based on the instructions below:
+
 ## Example
 ![](https://drive.google.com/uc?id=1rTfJs9lxscGsEzpCzMj8YvRE8tHHJgrD)
 
