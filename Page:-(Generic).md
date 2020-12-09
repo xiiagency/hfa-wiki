@@ -1,3 +1,6 @@
+## To create a new Generic page
+- 
+
 ## Fields
 
 ### UID
