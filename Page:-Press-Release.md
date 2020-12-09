@@ -1,3 +1,8 @@
+## To create a new Press Release page
+- Go to the Prismic `Documents` screen and click on the Green Pencil button at the top right.
+- Select `Press Release`
+- Fill out the fields based on the instructions below:
+
 ## Example
 ![](https://drive.google.com/uc?id=1B0k6yzUP71xyDZqj25e-jeb8APWu3mwE)
 
