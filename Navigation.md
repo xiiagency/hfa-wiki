@@ -1,7 +1,8 @@
 ## Example
 ![](https://drive.google.com/uc?id=1Z5Ynkoh13qkYGYrvH1akwII35xf7dwd1)
 
-## Fields
+## To edit the navigation
+- Go to the prismic `Documents` screen and search for `Navigation`. Click into it.
 
 ### To create a top level navigation link
 - Add a new `Item` slice
