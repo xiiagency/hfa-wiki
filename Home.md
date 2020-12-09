@@ -10,6 +10,8 @@
 | **survey results** to be added to the surveys directory | [Survey page](src/Page:-Survey) |
 | a **testimonial** to be added to the testimonials directory | [Testimonial page](src/Page:-Testimonial) |
 | a **video** to be added to the videos directory | [Video page](src/Page:-Video) |
+| a **job listing** to be added to the careers directory | [Career page](src/Page:-Career) |
+| a **research** post to be added to the research directory | [Research page](src/Page:-Research) |
 
 
 ## Adding languages
