@@ -2,7 +2,7 @@
 [Bio page](Promo)
 | I want to add... | Use |
 | --- | --- |
-| a new **person** to be shown in person lists, or linked as author of content  | [Bio page](/xii-hfa-main/wiki/Page:-Bio) |
+| a new **person** to be shown in person lists, or linked as author of content  | [Bio page](/xiiagency/xii-hfa-main/wiki/Page:-Bio) |
 | a new **blog post** that refers to an external article, or internal commentary | [Blog post page](xii-hfa-main/wiki/Page:-Blog-post) |
 | a new **mailing list newsletter** for users to sign up to | [Newsletter page](xii-hfa-main/wiki/Page:-Newsletter) |
 | a **petition** for users to sign onto | [Petition page](xii-hfa-main/wiki/Page:-Petition) |
