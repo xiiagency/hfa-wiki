@@ -1,5 +1,5 @@
 # Adding pages
-[Bio page](Promo)
+
 | I want to add... | Use |
 | --- | --- |
 | a new **person** to be shown in person lists, or linked as author of content  | [Bio page](/xiiagency/xii-hfa-main/wiki/Page:-Bio) |
