@@ -1,3 +1,7 @@
+## To edit the Home page
+- Go to the Prismic `Documents` screen and search for `Home` and click into it
+- Fill out the fields based on the instructions below:
+
 ## Example
 ![](https://drive.google.com/uc?id=1B0k6yzUP71xyDZqj25e-jeb8APWu3mwE)
 
