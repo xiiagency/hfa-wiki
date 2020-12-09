@@ -14,7 +14,7 @@
 The following slices are available for use:
 - [[Text|Slice:-Text]] (Recommended)
 - [[Action|Slice:-Action]] (Recommended)
-- [[Action|Slice:-Featured]] (Recommended)
+- [[Featured|Slice:-Featured]] (Recommended)
 - [[Petition|Slice:-Embed]]
 - [[Visual|Slice:-Visual]]
 - [[List|Slice:-List]]
