@@ -2,7 +2,7 @@
 
 | I want to add... | Use |
 | --- | --- |
-| a new **person** to be shown in person lists, or linked as author of content  | [Bio page](src/Page:-Bio) |
+| a new **person** to be shown in person lists, or linked as author of content  | [Bio page](src/Page: Bio) |
 | a new **blog post** that refers to an external article, or internal commentary | [Blog post page](src/Page:-Blog-post) |
 | a new **mailing list newsletter** for users to sign up to | [Newsletter page](src/Page:-Newsletter) |
 | a **petition** for users to sign onto | [Petition page](src/Page:-Petition) |
