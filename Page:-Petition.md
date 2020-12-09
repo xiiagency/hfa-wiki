@@ -1,3 +1,8 @@
+## To create a new Petition page
+- Go to the Prismic `Documents` screen and click on the Green Pencil button at the top right.
+- Select `Petition`
+- Fill out the fields based on the instructions below:
+
 ## Example
 ![](https://drive.google.com/uc?id=1g4MlwIydzyv0xiT-B2JLSzQMi8za6HZB)
 
