@@ -20,3 +20,8 @@ Every language version of the site acts independently from the other. You can tr
 
 ## Modifying navigation sidebar & footer
 The navigation sidebar and footer work off a main source, that can be manually edited to be as complex or simple as needed. [[Learn how|Navigation]]
+
+## Slices
+Pages are composed of slice templates (pre-defined elements that serve a specific purpose). Here is a complete list of all the different slices available:
+
+- [[]]
